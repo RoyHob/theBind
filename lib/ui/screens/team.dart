@@ -88,7 +88,7 @@ class PhysioInfo extends StatelessWidget {
                 Expanded(
                   child: Column(
                     children: [
-                      Text(name)
+                      Text(name.toUpperCase())
                     ],
                   ),
                 )

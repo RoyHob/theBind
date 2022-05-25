@@ -12,7 +12,7 @@ class Team extends StatelessWidget {
           height: 400,
           child: Row(
             children: const [
-              Text("MEET OUR TEAM", style: TextStyle(color: Colors.white, fontSize: 50, fontWeight: FontWeight.bold)),
+              Text("Meet The Team", style: TextStyle(color: Colors.white, fontSize: 50, fontWeight: FontWeight.bold)),
             ],
           ),
         ),
